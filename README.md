@@ -80,7 +80,7 @@ After that we will calculate angle heuristics by following the steps as follows:
 
 1) Clone project repository
 
-            git clone https://github.com/Kshitij-Kumar-Singh-Chauhan/FitZen
+            git clone https://github.com/Akshit-Rana/FitZen
 2) Navigate to FitZen directory
 
             cd FitZen
