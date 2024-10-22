@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fitzen/static/css/main.ff823812.css",
+    "main.js": "/fitzen/static/js/main.b6bce9cd.js",
+    "static/media/about_us.png": "/fitzen/static/media/about_us.64cb938155d76e287eb6.png",
+    "static/media/squats.png": "/fitzen/static/media/squats.f72e6bcc38f3d61a6d5c.png",
+    "static/media/yogapose.png": "/fitzen/static/media/yogapose.5919a72b895dc0fbf3c6.png",
+    "static/media/vikalp.jpg": "/fitzen/static/media/vikalp.22b7a567a937c34e2bc5.jpg",
+    "static/media/crunches.png": "/fitzen/static/media/crunches.692ee57a51c0796e096d.png",
+    "static/media/tadasana.png": "/fitzen/static/media/tadasana.a30b4debf7b74c2d11cf.png",
+    "static/media/bicepcurls.png": "/fitzen/static/media/bicepcurls.c2ccd0ced1a4707ee4c8.png",
+    "static/media/pushup.png": "/fitzen/static/media/pushup.7db695148f27b5ddeba7.png",
+    "static/media/trikonasana.png": "/fitzen/static/media/trikonasana.909a74f1fa737db9dea3.png",
+    "static/media/meditation.png": "/fitzen/static/media/meditation.714b553ca953138da6d5.png",
+    "static/media/logo_pic.png": "/fitzen/static/media/logo_pic.4d74bc83e7d6e07ea019.png",
+    "static/media/exercise.png": "/fitzen/static/media/exercise.b2d87d445cd262383cf7.png",
+    "static/media/logo_name.png": "/fitzen/static/media/logo_name.1de0f470a6289bd2f6be.png",
+    "index.html": "/fitzen/index.html",
+    "main.ff823812.css.map": "/fitzen/static/css/main.ff823812.css.map",
+    "main.b6bce9cd.js.map": "/fitzen/static/js/main.b6bce9cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff823812.css",
+    "static/js/main.b6bce9cd.js"
+  ]
+}
